@@ -1,0 +1,26 @@
+# ========================= #
+# =====MINEWEB VOTE======== #
+# ========================= #
+
+
+# ========================= #
+# =======DATABASE========== #
+# ========================= #
+database:
+  host: "localhost"
+  port: 3306
+  dbname: "yourDatabaseName"
+  username: "YourDatabaseUser"
+  password: "YourDatabaseUserPassword"
+# Specify "none" if your database user doesn't have password #
+
+# ========================= #
+# =========SIGNS=========== #
+# ========================= #
+
+signs:
+  sign1:
+  sign2:
+  sign3:
+
+# Don't change these values, it's location of your signs

@@ -1,0 +1,8 @@
+name: MyTopVote
+version: 1.0
+author: BastFX
+main: fr.bastfx.mytopvote.MyTopVote
+api-version: 1.13
+commands:
+  votes:
+    description: Voir les meilleurs voteurs
