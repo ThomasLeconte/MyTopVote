@@ -7,9 +7,13 @@ Configurez le fichier config.yml du plugin en renseignant les informations de vo
 Redémarrez votre serveur, le plugin est fonctionnel !
 
 Pour afficher le meilleur voteur, placez une pancarte et marquez ceci (1,2,3,4 répresentant chaque lignes de la pancarte) :
+
 1: [VOTES]
+
 2: top1 (ou top2, top3, au choix !)
+
 3:
+
 4:
 
 Une fois la pancarte placée, faites un **clic droit** dessus, et admirez le résultat ! 
